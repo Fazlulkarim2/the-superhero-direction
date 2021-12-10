@@ -14,7 +14,7 @@ const Cart = (props) => {
         <div>
             <h2>total doctors:{props.cart.length}</h2>
             <br/>
-            <p>Total:${total}</p>
+            <p>Total salary:${total}</p>
                     </div>
     );
 };

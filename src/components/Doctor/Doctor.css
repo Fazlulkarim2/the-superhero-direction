@@ -2,8 +2,8 @@
 
 .doctor{
    
-   background-color:rgb(192, 128, 238);
-   background: radial-gradient(#f04c4c, #0b1383);
+   background-color:bisque;
+   background: radial-gradient(Turquoise,Cyan);
    padding:20px 20px;
    border-radius:10px;
    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
